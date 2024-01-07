@@ -8,7 +8,7 @@
 
 
 ## Навыки и технологии
-- Инструменты анализа данных: "SQL", "Python" (Jupyter notebook с библиотеками pandas, matplotlib, numpy, seaborn, scipy.stats), "Excel", "Google Sheets"
+- Инструменты анализа и визуализации данных: "SQL", "Python" (Jupyter notebook с библиотеками pandas, matplotlib, numpy, seaborn, scipy.stats), "Excel", "Google Sheets", PowerBI
 
 ## Проекты
 ### Проект 1: Калькулятор юнит-экономики онлайн-школы

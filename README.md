@@ -8,7 +8,7 @@
 
 
 ## Навыки и технологии
-- Инструменты анализа данных: "SQL", "Excel", "Google Sheets"
+- Инструменты анализа данных: "SQL", "Python" (Jupyter notebook с библиотеками pandas, matplotlib, numpy, seaborn, scipy.stats), "Excel", "Google Sheets"
 
 ## Проекты
 ### Проект 1: Калькулятор юнит-экономики онлайн-школы
@@ -41,3 +41,11 @@
 <p><strong>Как выполнил:</strong> Изучил изменение балансов студентов, собранных с помощью CTE (код SQL прилагается). Создал линейную диаграмму итогового результата.</p>
 
 <p>[ссылка на проект](https://drive.google.com/drive/folders/10-mrl7tikYI8g2roZOWeDH1W4v0cU4vm?usp=sharing)
+
+### Проект 4: Анализ AB-тестов крупного ритейлера с помощью Python
+<p>Что требовалось выполнить?</p>
+
+<p><strong>Задача 1:</strong> Проанализировать AB-тест, проведенный во всех городах.<br>
+  <strong>Задача 2:</strong> Выгрузить полученные данные в Excel, на основе которых построить калькулятор исходов теста.</p>
+
+<p>[ссылка на проект](https://drive.google.com/drive/folders/108wbjkQlf6wynZM5yrLvCr31gYNuk9UK?usp=drive_link)
